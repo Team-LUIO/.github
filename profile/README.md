@@ -15,4 +15,6 @@
 ![팀합류페이지](https://github.com/Team-LUIO/.github/assets/40788498/5a3a100d-0b22-402b-b7bb-b3133204dd09)
 
 ### Rest API 설계
+![image](https://github.com/Team-LUIO/.github/assets/40788498/fe36750e-5a2b-4d4b-b5d5-7bd989ba3d8c)
+
 
